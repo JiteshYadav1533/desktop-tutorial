@@ -1,5 +1,12 @@
-# Welcome to GitHub Desktop!
+# GitHub Desktop Tutorial
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+This repository was created to learn Git and GitHub Desktop.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+## What I Learned
+- Creating a GitHub repository
+- Making commits
+- Pushing code to GitHub
+- Managing repositories
+
+## Author
+Jitesh Yadav
